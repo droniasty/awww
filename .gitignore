@@ -1,0 +1,7 @@
+worker_package_v1-2/*
+problem.txt
+venv/*
+awwwapp/__pychache__/*
+awwwlab/__pychache__/*
+.vscode/*
+awwwapp/migrations/*
